@@ -194,8 +194,3 @@ up `jobs.db` if you want to preserve your collected listings.
 Potential next steps include adding configurable job sources, richer
 filtering, a command-line interface, automated tests, and more detailed
 reporting.
-
-## License
-
-No license is specified here. Add a `LICENSE` file if you want to define
-how others may use, modify, and distribute this project.
